@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#D3137E</color>
+    <color name="colorPrimaryDark">#D3137E</color>
+    <color name="colorAccent">#D3137E</color>
+
+    <color name="itemOne">#C61331</color>
+    <color name="itemTwo">#95DB35</color>
+    <color name="itemThree">#A82188</color>
+    <color name="itemFour">#5ED3EE</color>
+    <color name="itemFive">#FCF04A</color>
+    <color name="itemSix">#D3137E</color>
+    <color name="itemSeven">#FF5A00</color>
+
+    <color name="background">#1C232D</color>
+</resources>
